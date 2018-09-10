@@ -15,7 +15,7 @@
         "illuminate/contracts": "5.5.*",
         "illuminate/support": "5.5.*",
         "graham-campbell/manager": "^3.0",
-        "mirkoschmidt/php-gitlab-api": "dev-master"
+        "mirkoschmidt/php-gitlab-api": "^4.2.0"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^1.1",
